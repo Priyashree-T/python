@@ -1,4 +1,4 @@
-def analyze_numbers():
+def pythonfile():
     numbers = list(range(1, 11))
 
     total = sum(numbers)
